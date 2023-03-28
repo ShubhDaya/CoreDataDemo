@@ -1,0 +1,6 @@
+framework module Pods_CoreDataShubham_CoreDataShubhamUITests {
+  umbrella header "Pods-CoreDataShubham-CoreDataShubhamUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

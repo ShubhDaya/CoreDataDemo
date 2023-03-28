@@ -1,0 +1,24 @@
+PODS:
+  - CryptoKit (0.4.0)
+  - SwiftyCrypto (0.0.1)
+  - SwiftyJWT (0.0.3):
+    - SwiftyCrypto (~> 0.0.1)
+
+DEPENDENCIES:
+  - CryptoKit
+  - SwiftyJWT
+
+SPEC REPOS:
+  trunk:
+    - CryptoKit
+    - SwiftyCrypto
+    - SwiftyJWT
+
+SPEC CHECKSUMS:
+  CryptoKit: 778b0eb14434535f70fd1037b297841dd83e3c37
+  SwiftyCrypto: ab59cdb153a7ca99b657fa8d9ebd2ebbd7694bbe
+  SwiftyJWT: e46e8457138c6567a1a9ff05a6efc8ef678c1187
+
+PODFILE CHECKSUM: 483c5b7470f0956ab2e8c9ec3c9efeb97428b8b7
+
+COCOAPODS: 1.11.3

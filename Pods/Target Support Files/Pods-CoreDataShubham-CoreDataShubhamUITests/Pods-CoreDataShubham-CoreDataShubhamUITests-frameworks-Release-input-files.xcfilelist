@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-CoreDataShubham-CoreDataShubhamUITests/Pods-CoreDataShubham-CoreDataShubhamUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/CryptoKit/CryptoKit.framework
+${BUILT_PRODUCTS_DIR}/SwiftyCrypto/SwiftyCrypto.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJWT/SwiftyJWT.framework
